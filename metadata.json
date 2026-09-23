@@ -1,0 +1,6 @@
+{
+  "name": "GYM Fitness",
+  "description": "High-contrast energetic gym website featuring video-style hero, class schedules, coach profiles, pricing plans, transformation slider, BMI calculator, and free trial pass generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
